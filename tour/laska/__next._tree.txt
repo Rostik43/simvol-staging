@@ -1,0 +1,7 @@
+:HL["/simvol-staging/_next/static/chunks/06kte9tu9vh60.css","style"]
+:HL["/simvol-staging/_next/static/media/39c55468420adfa6-s.p.1669nxjwa2fmv.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/simvol-staging/_next/static/media/81cef6a21128489e-s.p.2csanl8cs02r-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/simvol-staging/_next/static/media/Bounded_ExtraLight-s.p.20ynvtx-4i5nu.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/simvol-staging/_next/static/media/Bounded_Regular-s.p.0-96_3f8oqo47.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/simvol-staging/_next/static/chunks/297bem6r--gd4.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"tour","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"laska","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"ipB5RPlemo9M9in9PWBXd"}
